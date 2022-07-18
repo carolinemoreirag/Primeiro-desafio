@@ -11,7 +11,7 @@ public class PrimeiroPrograma {
 		
 		System.out.println(Gato);
 		System.out.println(Livros);
-		System.out.println(Livros);
+		
 		/*int a = 20;
 		int b = 10;
 	
@@ -23,5 +23,5 @@ public class PrimeiroPrograma {
 class Livros {
 	private String nome;
 	private String npag;
-	private String Pito;
+	
 }
